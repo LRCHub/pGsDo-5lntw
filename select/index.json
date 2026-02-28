@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "夕月夜",
+  "base_artist": "GARNET CROW",
+  "createdAt": "2026-02-28T09:39:01.633885Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "夕月夜",
+      "artist": "GARNET CROW",
+      "has_synced": false,
+      "path": "select/01_夕月夜_GARNET_CROW.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "夕月夜",
+      "artist": "GARNET CROW",
+      "has_synced": false,
+      "path": "select/pl_01_夕月夜_GARNET_CROW.txt"
+    }
+  ]
+}
